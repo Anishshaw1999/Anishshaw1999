@@ -7,6 +7,8 @@ An aspiring and detail-oriented data analyst from India with strong mathematical
 
 🔭 I’m currently working on SQL Skills
 
+![image](https://github.com/Anishshaw1999/Anishshaw1999/assets/132387352/e6fb0bb5-aa3f-4eba-a64c-c701300dfbea)
+
 🌱 I’m currently learning Machine Learning Skills
 
 👨‍💻 All of my projects are available at (https://github.com/Anishshaw1999?tab=repositories)
