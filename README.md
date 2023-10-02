@@ -1,14 +1,8 @@
 ![image](https://github.com/Anishshaw1999/Anishshaw1999/assets/132387352/5dccc554-4f61-4c51-b450-d348ebc8f1bd)
 
+Hi 👋, I'm Anish
+An aspiring and detail-oriented data analyst from India with strong mathematical skills and statistical knowledge with keen interest in handling and manipulating the data and to provide useful insights.
 
-
-
-
-
-
-
-
-- 👋 Hi, I’m @Anish Shaw
 🔭 I’m currently working on SQL Skills
 
 🌱 I’m currently learning Machine Learning Skills
